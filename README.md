@@ -4,7 +4,7 @@
 - Raspberry Pi 3B cooperates with EMQX to build a server, which can achieve external network access through internal network penetration(www.hsk.oray.com);
 - IMX6ULL achieves LVGL interface display and MQTT subscription through pthread;
 
-![系统图](https://github.com/Olaaaaab/Olaaaaab/assets/139237529/660b9010-96d3-4950-a71d-8f3c276c8832)
+![系统图](https://github.com/Olaaaaab/SmartHome/assets/139237529/3616c6c6-c93b-485d-82e6-9c0cf0e7e53e)
 
 
 <!---
